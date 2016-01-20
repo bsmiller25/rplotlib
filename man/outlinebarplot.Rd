@@ -7,7 +7,7 @@
  Draw a board style bar plot outline
 }
 \usage{
-outlinebarplot(bars,datavector,lty=5,lwd=1.5,col="black")
+outlinebarplot(bars,datavector,...)
 }
 
 \arguments{
